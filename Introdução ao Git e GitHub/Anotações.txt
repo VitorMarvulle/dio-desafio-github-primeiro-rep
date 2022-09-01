@@ -1,1 +1,1 @@
-GIT Bash é um terminal terminal extendido para otimizar o uso do GIT.
+GIT Bash é um terminalextendido para otimizar o uso do GIT.
